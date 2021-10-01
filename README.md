@@ -1,7 +1,7 @@
 # devtool
 
 - Esse é um simples script de puxar dados e fazer DDoS
-- DesDenvolnvido por: SAS
+- Denvolnvido por: SAS
 
 # tutorial
 
