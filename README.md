@@ -27,10 +27,11 @@
 - ddos-attack
 - ddos-tool
 
-# creditos dos scriots
+# creditos dos scripts
 
-D4Vinci
-T3rMuX0
-wgenial
-bydeathlxncer
-Ha3MrX
+- D4Vinci
+- T3rMuX0
+- wgenial
+- bydeathlxncer
+- Ha3MrX
+- SAS
