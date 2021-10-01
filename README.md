@@ -5,9 +5,9 @@ DesDenvolnvido por: SAS
 
 # tutorial
 
-instalação:
-termux/linux:
-pkg install python
+- instalação:
+- termux/linux:
+- pkg install python
 pkg install git
 git clone http://github.com/System32t/devtool
 cd devtool
