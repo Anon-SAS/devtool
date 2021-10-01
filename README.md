@@ -25,6 +25,12 @@
 - DDoS:
 - pyflooder
 - ddos-attack
-- [ddos-tool]
+- ddos-tool
 
 # creditos dos scriots
+
+D4Vinci
+T3rMuX0
+wgenial
+bydeathlxncer
+Ha3MrX
