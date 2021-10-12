@@ -16,16 +16,8 @@
 - pip intall -r requirements.txt
 - python menu.py
 
-# scripts do painel
 
-- Consultas:
-- consultav3
-- geogip
-- consultacep
-- DDoS:
-- pyflooder
-- ddos-attack
-- ddos-tool
+
 
 # creditos dos scripts
 
