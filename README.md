@@ -1,6 +1,6 @@
 # devtool
 
-- Esse é um simples script de puxar dados e fazer DDoS
+- Esse é um simples script com ferramentas pra hacking
 - Denvolnvido por: SAS
 
 # tutorial
@@ -14,7 +14,7 @@
 - unzip devpanel.zip
 - cd devpanel
 - pip intall -r requirements.txt
-- python menu.py
+- bash start.sh
 
 
 
