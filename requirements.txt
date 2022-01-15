@@ -1,0 +1,8 @@
+argparse
+requests
+termcolor
+requests
+scapy
+wifi
+wget
+figlet
