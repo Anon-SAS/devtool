@@ -2,6 +2,7 @@
 
 - Esse é um simples script com ferramentas pra hacking
 - Denvolnvido por: SAS
+- Website: https://devto.netlify.app/
 
 # tutorial
 
